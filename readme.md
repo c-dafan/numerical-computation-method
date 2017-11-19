@@ -1,4 +1,12 @@
-# 数值分析作业
+# 数值分析作业（python实现）
+
+> 环境
+>* python3.5
+>* matplotlib包
+>* numpy包
+>* sklearn包
+>* sympy包
+
 
 ## [第一次][1]
 		泰勒级数展开
